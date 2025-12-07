@@ -16,7 +16,7 @@
 ## Установка
 1. Клонировать репозиторий
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Whyiok/GoLocal/blob/main/README.md
    cd finance-tracker
    ```
 2. Устанавливать зависимости:
@@ -61,3 +61,4 @@
 3.  Более менее
 4.  Неплохое заведение
 5.  Высший рейтинг заведения
+
